@@ -1,15 +1,6 @@
 <div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🤖 交互式机器学习实验</font></font></h1><a id="user-content--interactive-machine-learning-experiments" class="anchor" aria-label="永久链接：🤖 交互式机器学习实验" href="#-interactive-machine-learning-experiments"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <blockquote>
-<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🇺🇦乌克兰</font></font><a href="https://war.ukraine.ua/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">正在遭受</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">俄罗斯军队的攻击。平民正在被杀害。居民区正在遭到轰炸。</font></font></p>
-<ul dir="auto">
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过以下方式帮助乌克兰：
-</font></font><ul dir="auto">
-<li><a href="https://prytulafoundation.org/en/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Serhiy Prytula 慈善基金会</font></font></a></li>
-<li><a href="https://savelife.in.ua/en/donate-en/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">重生慈善基金会</font></font></a></li>
-<li><a href="https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">乌克兰国家银行</font></font></a></li>
-</ul>
-</li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">更多信息请访问</font></font><a href="https://war.ukraine.ua/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">war.ukraine.ua</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><a href="https://twitter.com/MFA_Ukraine" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">乌克兰外交部</font></font></a></li>
+ 
 </ul>
 </blockquote>
 <hr>
